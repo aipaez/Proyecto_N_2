@@ -59,7 +59,7 @@ Para esto usaremos proteus desarrollando el siguiente esquema de un cirucuito es
 
 6. Para el funcionamiento del foco, los puntos Retorno 1-Retorno 1 deben estar en contacto para cerrar el circuito. Su funcionamiento interno se veria algo asi.
 
-![image](https://user-images.githubusercontent.com/117959424/212807962-3c54f151-94d1-46a2-9b8e-18f45e183bf8.png)
+![image](https://user-images.githubusercontent.com/116814096/212902156-22eafdd8-f6c4-4fa2-9387-362bcde10a49.png)
 
 7. Y en el circuito fisico se veria asi:
 
